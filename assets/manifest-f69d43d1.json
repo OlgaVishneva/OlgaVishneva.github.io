@@ -1,0 +1,20 @@
+{
+  "name": "Котики",
+  "short_name": "Котики",
+  "icons": [
+    {
+      "src": "/img/pwa/kitty.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#fdb64e",
+  "background_color": "#fdb64e",
+  "permissions": {
+    "notifications": {},
+    "geolocation": {},
+    "camera": {}
+  }
+}
